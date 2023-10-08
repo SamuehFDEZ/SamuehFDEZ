@@ -6,7 +6,7 @@
 ## <span style="color:white"> Currently I'm studying </span>&nbsp; `Web application development;`
 
 
-<img style="background" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="JS" width="750px" height="450px">
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="JS" width="750px" height="450px">
 
 <hr>
 
