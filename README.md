@@ -20,6 +20,7 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="php" width="50px" height="auto"> &nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="50px" height="50px"> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="css" width="75px" height="50px"> &nbsp;&nbsp;
 <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="35px" height="50px"> &nbsp;
 
 - **Tech and tools:** <br>
@@ -27,7 +28,8 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
   <img src="https://img.icons8.com/?size=256&id=LdUzF8b5sz2R&format=png" alt="docker" width="75px" height="75px"> &nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="70px" > &nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=256&id=QeIg9siFKGgp&format=png" alt="git" width="70px" > &nbsp;
- <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="git" width="70px" > &nbsp;
+  <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="git" width="70px" > &nbsp;
+  <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png" alt="git" width="60px" heigth="auto"> &nbsp;
 
 # Social Media
 
