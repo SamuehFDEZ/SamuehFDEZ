@@ -5,8 +5,8 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
 
 # About me
 
-- 🎓 Currently I'm studying DAW (web development).
-- 💼 Work: Coming soon.
+- 🎓 Higher technician in Web Development.
+- 💼 Work: Minsait, an Indra company.
 - 🌐  I love English, currently in B2 level, and I would be quite interested in learning more languages.
 - 📚 I like playing videogames and travelling.
 - 🔍 I consider myself as a dedicated, trustful, social and kind individual.
@@ -17,6 +17,7 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="50px" height="50px"> &nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="69px" height="50px"> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="php" width="50px" height="auto"> &nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="35px" height="50px"> &nbsp;
@@ -27,7 +28,6 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="70px" > &nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=256&id=QeIg9siFKGgp&format=png" alt="git" width="70px" > &nbsp;
  <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="git" width="70px" > &nbsp;
-
 
 # Social Media
 
