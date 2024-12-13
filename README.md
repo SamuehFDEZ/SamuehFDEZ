@@ -1,7 +1,8 @@
 
 # Presentation
 
-Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
+Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸. <br>
+I'm currently studying a specialization of Artificial Inteligence and Big Data
 
 # About me
 
@@ -14,7 +15,10 @@ Hi! 👋 I'm Samuel, web developer from Valencia, Spain 🇪🇸.
 # Habilities
 
 - **Programming languages:** <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="50px" height="50px"> &nbsp;
+<img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png" alt="spark" width="100px" height="50px"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/230px-Scala-full-color.svg.png" alt="scala" width="100px" height="50px"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" alt="python" width="50px" height="50px"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="50px" height="50px"> &nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="69px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="php" width="50px" height="auto"> &nbsp;&nbsp;
