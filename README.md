@@ -15,7 +15,6 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 # Habilities
 
 - **Programming languages:** <br><br>
-<img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png" alt="spark" width="100px" height="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/230px-Scala-full-color.svg.png" alt="scala" width="100px" height="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg" alt="python" width="50px" height="50px"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="50px" height="50px"> &nbsp;
@@ -28,7 +27,7 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="35px" height="50px"> &nbsp;
 
 - **Tech and tools:** <br>
-  
+  <img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png" alt="spark" width="100px" height="50px"> &nbsp;
   <img src="https://img.icons8.com/?size=256&id=LdUzF8b5sz2R&format=png" alt="docker" width="75px" height="75px"> &nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="70px" > &nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=256&id=QeIg9siFKGgp&format=png" alt="git" width="70px" > &nbsp;
@@ -39,12 +38,6 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 
 <a href="https://www.linkedin.com/in/samuel-arteaga-l%C3%B3pez-370bb3278/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" alt="linkedin" width="50px" height="50px"> &nbsp;
-</a>
-<a href="https://www.instagram.com/samuehfdez/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="ig" width="50px" height="50px"> &nbsp;
-</a>
-<a href="https://twitter.com/SamuehFDEZv">
-<img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="x" width="50px" height="50px"> &nbsp;
 </a>
 <a href="https://stackoverflow.com/users/20852770/samuehfdez">
 <img src="https://img.icons8.com/?size=256&id=13955&format=png" alt="stackoverflow" width="70px" >  &nbsp;
