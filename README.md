@@ -28,6 +28,7 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 
 - **Tech and tools:** <br>
   <img src="https://uploads-ssl.webflow.com/5e724862760345325327026c/5fa7238e9ad1b43af56de907_apache-spark-white-logo-p-500.png" alt="spark" width="100px" height="50px"> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Apache-nifi-logo.svg/180px-Apache-nifi-logo.svg.png?20190703114335" alt="spark" width="100px" height="50px"> &nbsp;
   <img src="https://img.icons8.com/?size=256&id=LdUzF8b5sz2R&format=png" alt="docker" width="75px" height="75px"> &nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="70px" > &nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=256&id=QeIg9siFKGgp&format=png" alt="git" width="70px" > &nbsp;
