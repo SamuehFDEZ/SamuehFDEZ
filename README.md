@@ -24,7 +24,7 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="css" width="75px" height="50px"> &nbsp;&nbsp;
-<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="sql" width="35px" height="50px"> &nbsp;
+<img src="https://logodix.com/logo/1327215.png" alt="sql" width="35px" height="50px"> &nbsp;
 
 - **Tech and tools:** <br>
   <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" alt="spark" width="50px" height="50px"> &nbsp;
