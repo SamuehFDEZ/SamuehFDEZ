@@ -39,6 +39,9 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
   <img src="https://img.icons8.com/?size=256&id=QeIg9siFKGgp&format=png" alt="mysql" width="70px" > &nbsp;
   <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="scenebuilder" width="70px" > &nbsp;
   <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png" alt="aws" width="60px" heigth="auto"> &nbsp;
+
+  -----
+  
   <img src="https://global-uploads.webflow.com/64009fedce03bf07c4d0898b/643804e8b185914738e36eda_1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="60px" heigth="auto"> &nbsp;
   <img src="https://destatic.blob.core.windows.net/images/cassandra-logo.png" alt="cassandra" width="120px" heigth="auto"> &nbsp;
 
