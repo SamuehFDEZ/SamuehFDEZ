@@ -43,8 +43,8 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
   
   -----
   
-  <img src="https://global-uploads.webflow.com/64009fedce03bf07c4d0898b/643804e8b185914738e36eda_1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="60px" heigth="auto"> &nbsp;
-  <img src="https://destatic.blob.core.windows.net/images/cassandra-logo.png" alt="cassandra" width="120px" heigth="auto"> &nbsp;
+  <img src="https://global-uploads.webflow.com/64009fedce03bf07c4d0898b/643804e8b185914738e36eda_1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="60px" heigth="auto"> &nbsp;&nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/2c79729b78d3e675a23ca3ae620f35721023cdd904abcab3faec3cb63166354e/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f4d6f6e676f44422d4c6f676f2e706e67" alt="mongodb" width="150px" heigth="auto"> &nbsp;
 
 # Social Media
 
