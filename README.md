@@ -40,6 +40,8 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
   <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="scenebuilder" width="70px" > &nbsp;
   <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png" alt="aws" width="60px" heigth="auto"> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmEh006T-YqvhSJ-8qZKiDN4aBphTKfR80Q&s" alt="kafka" width="60px" heigth="auto"> &nbsp;
+  <img src="https://imagej.github.io/imagej-wiki-static/images/5/54/Knime-icon.png" alt="knime" width="60px" heigth="auto"> &nbsp;
+
   
   -----
   
