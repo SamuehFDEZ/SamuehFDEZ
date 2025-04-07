@@ -40,13 +40,13 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
   <img src="https://img.icons8.com/?size=256&id=BZz399uT6eo0&format=png" alt="scenebuilder" width="70px" > &nbsp;
   <img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31661/1702633077_AWSlogoAmazonWebServiceslogo.png" alt="aws" width="60px" heigth="auto"> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmEh006T-YqvhSJ-8qZKiDN4aBphTKfR80Q&s" alt="kafka" width="60px" heigth="auto"> &nbsp;
-  <img src="https://imagej.github.io/imagej-wiki-static/images/5/54/Knime-icon.png" alt="knime" width="60px" heigth="auto"> &nbsp;
 
-  
   -----
   
   <img src="https://global-uploads.webflow.com/64009fedce03bf07c4d0898b/643804e8b185914738e36eda_1200px-New_Power_BI_Logo.svg.png" alt="powerbi" width="60px" heigth="auto"> &nbsp;&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/2c79729b78d3e675a23ca3ae620f35721023cdd904abcab3faec3cb63166354e/68747470733a2f2f313030306c6f676f732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30382f4d6f6e676f44422d4c6f676f2e706e67" alt="mongodb" width="150px" heigth="auto"> &nbsp;
+  <img src="https://imagej.github.io/imagej-wiki-static/images/5/54/Knime-icon.png" alt="knime" width="60px" heigth="auto"> &nbsp;
+
 
 # Social Media
 
