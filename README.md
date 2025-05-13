@@ -22,9 +22,9 @@ I'm currently studying a specialization of Artificial Inteligence and Big Data
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="JS" width="50px" height="50px"> &nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="50px" height="50px"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" width="69px" height="50px"> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="php" width="50px" height="auto"> &nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="50px" height="auto"> &nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="50px" height="50px"> &nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dnpmdb8r8/image/upload/f_auto,c_limit,q_auto,w_auto/w_600/argyleink/csslogo.png" alt="css" width="50px" height="50px"> &nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="css" width="90px" height="auto"> &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="75px" height="50px"> &nbsp;&nbsp;
 <img src="https://logodix.com/logo/1327215.png" alt="sql" width="35px" height="50px"> &nbsp;
 <img src="https://iconape.com/wp-content/png_logo_vector/r-lang.png" alt="r" width="55px" height="auto"> &nbsp;
